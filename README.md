@@ -6,11 +6,7 @@ A simple, lightweight and easy-to-use ticker component for natively animating sm
 
 ### Installation: 
 ```
-$ npm i react-native-number-ticker
-```
-or if you are using yarn
-```
-$ yarn add react-native-number-ticker
+$ npm i github:wowmaking/react-native-number-ticker
 ```
 
 ### Example usage:

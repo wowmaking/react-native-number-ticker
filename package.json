@@ -6,13 +6,10 @@
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest"
   },
-  "dependencies": {
-    "react": "*",
-    "react-native": "*"
-  },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "prop-types": "*"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
